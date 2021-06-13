@@ -1,0 +1,103 @@
+﻿  Exporter.cpp
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(158,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(151,8): warning C4189: 'normalLength': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(155,8): warning C4189: 'VLength': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(152,8): warning C4189: 'tangentLength': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(150,8): warning C4189: 'vertexLength': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(154,8): warning C4189: 'ULength': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(153,8): warning C4189: 'biNorLength': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(248,38): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(250,54): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(253,55): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(255,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(256,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(257,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(258,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(259,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(260,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(261,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(262,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(263,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(264,39): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(265,43): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(268,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(269,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(270,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(272,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(273,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(274,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(282,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(295,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(296,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(297,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(308,32): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(309,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(310,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(311,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(314,39): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(315,43): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(319,54): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(320,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(321,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(322,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(326,55): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(327,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(328,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(329,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(338,61): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(369,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(376,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(379,41): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(382,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(383,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(361,6): warning C4189: 'vertexInfoSize': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(360,6): warning C4189: 'MeshInfoSize': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(359,6): warning C4189: 'modelInfoSize': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(225,8): warning C4189: 'polyVerCount': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(224,8): warning C4189: 'verIdSize': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(213,8): warning C4189: 'uvLengt': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(235,9): warning C4189: 'vLength': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(234,9): warning C4189: 'uLength': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(343,20): warning C4189: 'numFaces': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(288,11): warning C4189: 'index': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(286,11): warning C4189: 'indexNum': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(338,20): warning C4189: 'tmpBaseVertex': local variable is initialized but not referenced
+C:\Users\personal\source\repos\MayaExporterPlugin\MayaExporterPlugin\src\Exporter.cpp(381): warning C4701: potentially uninitialized local variable 'numVertex' used
+     Creating library C:\Users\personal\source\repos\MayaExporterPlugin\bin/x64/MayaExporterPlugin.lib and object C:\Users\personal\source\repos\MayaExporterPlugin\bin/x64/MayaExporterPlugin.exp
+  MayaExporterPlugin.vcxproj -> C:\Users\personal\source\repos\MayaExporterPlugin\bin/x64/MayaExporterPlugin.mll
